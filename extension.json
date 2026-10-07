@@ -1,0 +1,8 @@
+{
+  "name": "Select Matching Across Views",
+  "description": "Enhances Revit's native selection by allowing you to instantly select matching elements (by exact Type identity) across multiple specific views at once, featuring lightning-fast optimization for 2D annotations.",
+  "author": "Hazem Sakr",
+  "dependencies": {
+    "core": "4.8.0"
+  }
+}
